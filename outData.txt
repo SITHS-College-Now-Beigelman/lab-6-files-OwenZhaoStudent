@@ -1,0 +1,3 @@
+Sum of numbers: 95
+Next Character: Z
+String: Hello!
